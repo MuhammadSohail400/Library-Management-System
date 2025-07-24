@@ -1,0 +1,33 @@
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.vcxproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.AddBookForm.resources
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.MainForm.resources
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.ViewBooksForm.resources
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.vcxproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.AddStudentForm.resources
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.ViewStudentsForm.resources
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.IssueBookForm.resources
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.ReturnBookForm.resources
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.CompleteBookForm.resources
+C:\Users\hp\OneDrive\Desktop\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.LoginForm.resources
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.vcxproj.AssemblyReference.cache
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.AddBookForm.resources
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.AddStudentForm.resources
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.CompleteBookForm.resources
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.IssueBookForm.resources
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.LoginForm.resources
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.MainForm.resources
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.ReturnBookForm.resources
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.ViewBooksForm.resources
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.ViewStudentsForm.resources
+C:\New folder\Desktop C\myfiles\c++ project\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.vcxproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.vcxproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.AddBookForm.resources
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.AddStudentForm.resources
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.CompleteBookForm.resources
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.IssueBookForm.resources
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.LoginForm.resources
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.MainForm.resources
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.ReturnBookForm.resources
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.ViewBooksForm.resources
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.ViewStudentsForm.resources
+C:\Users\hp\OneDrive\Music\LibrarySystem\LibrarySystem\x64\Debug\LibrarySystem.vcxproj.GenerateResource.cache

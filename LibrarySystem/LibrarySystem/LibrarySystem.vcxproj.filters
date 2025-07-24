@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Forms">
+      <UniqueIdentifier>{574986b0-0628-452e-afe5-1cb6abf56cd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{b0b49176-eff8-4454-94d8-c8e6c2eb5532}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Services">
+      <UniqueIdentifier>{e3100fa8-39d1-4226-8186-bf3c55c05baf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AddBookForm.cpp">
+      <Filter>Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewBooksForm.cpp">
+      <Filter>Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainForm.cpp">
+      <Filter>Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="IssueBookForm.cpp">
+      <Filter>Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnBookForm.cpp">
+      <Filter>Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="AddStudentForm.cpp">
+      <Filter>Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentService.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewStudentsForm.cpp">
+      <Filter>Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="CompleteBookForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginForm.cpp">
+      <Filter>Forms</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AddBookForm.h">
+      <Filter>Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewBooksForm.h">
+      <Filter>Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="Book.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Member.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Transaction.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="DBConnection.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="BookService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="MainForm.h">
+      <Filter>Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="IssueBookForm.h">
+      <Filter>Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="ReturnBookForm.h">
+      <Filter>Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="AddStudentForm.h">
+      <Filter>Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="Header.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewStudentsForm.h">
+      <Filter>Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="CompleteBookForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginForm.h">
+      <Filter>Forms</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\icons 1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\library images\141-1418076_library-management-library-icons-png.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

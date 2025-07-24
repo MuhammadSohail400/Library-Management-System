@@ -1,0 +1,108 @@
+  LibrarySystem.AddBookForm.resources - Embedded, ContainedInManifestFile, 
+  LibrarySystem.AddStudentForm.resources - Embedded, ContainedInManifestFile, 
+  LibrarySystem.CompleteBookForm.resources - Embedded, ContainedInManifestFile, 
+  LibrarySystem.IssueBookForm.resources - Embedded, ContainedInManifestFile, 
+  LibrarySystem.LoginForm.resources - Embedded, ContainedInManifestFile, 
+  LibrarySystem.MainForm.resources - Embedded, ContainedInManifestFile, 
+  LibrarySystem.ReturnBookForm.resources - Embedded, ContainedInManifestFile, 
+  LibrarySystem.ViewBooksForm.resources - Embedded, ContainedInManifestFile, 
+  LibrarySystem.ViewStudentsForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly LibraryManagementSystem, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class LibrarySystem.Book: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String Status 'get set' : 
+    System.String ISBN 'get set' : 
+    System.String Author 'get set' : 
+    System.String Title 'get set' : 
+    Int32 BookId 'get set' : 
+  Methods:
+    get_BookId(): PrivateScope, Public, HideBySig, SpecialName
+    set_BookId(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Title(): PrivateScope, Public, HideBySig, SpecialName
+    set_Title(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Author(): PrivateScope, Public, HideBySig, SpecialName
+    set_Author(String): PrivateScope, Public, HideBySig, SpecialName
+    get_ISBN(): PrivateScope, Public, HideBySig, SpecialName
+    set_ISBN(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Status(): PrivateScope, Public, HideBySig, SpecialName
+    set_Status(String): PrivateScope, Public, HideBySig, SpecialName
+Class LibrarySystem.DBConnection: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetConnection(): PrivateScope, Public, Static, HideBySig
+    CloseConnection(): PrivateScope, Public, Static, HideBySig
+Class LibrarySystem.BookService: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AddBook(Book): PrivateScope, Public, Static, HideBySig
+    GetAllBooks(): PrivateScope, Public, Static, HideBySig
+    SearchBooksByTitle(String): PrivateScope, Public, Static, HideBySig
+    DeleteBook(Int32): PrivateScope, Public, Static, HideBySig
+    UpdateBook(Book): PrivateScope, Public, Static, HideBySig
+Class LibrarySystem.AddBookForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LibrarySystem.AddStudentForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LibrarySystem.CompleteBookForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LibrarySystem.IssueBookForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LibraryManagementSystem.ViewBooksForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LibrarySystem.ReturnBookForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LibrarySystem.ViewStudentsForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LibrarySystem.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LibrarySystem.LoginForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LibrarySystem.Person: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetName(): PrivateScope, Public, HideBySig
+    SetName(String): PrivateScope, Public, HideBySig
+    GetContact(): PrivateScope, Public, HideBySig
+    SetContact(String): PrivateScope, Public, HideBySig
+    GetEmail(): PrivateScope, Public, HideBySig
+    SetEmail(String): PrivateScope, Public, HideBySig
+    GetInfo(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class LibrarySystem.Student: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :LibrarySystem.Person
+    Void .ctor(System.String, System.String, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetEnrollmentNo(): PrivateScope, Public, HideBySig
+    SetEnrollmentNo(String): PrivateScope, Public, HideBySig
+    GetDepartment(): PrivateScope, Public, HideBySig
+    SetDepartment(String): PrivateScope, Public, HideBySig
+    GetSemester(): PrivateScope, Public, HideBySig
+    SetSemester(String): PrivateScope, Public, HideBySig
+    GetInfo(): PrivateScope, Public, Virtual, HideBySig
+Class LibrarySystem.StudentService: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AddStudent(Student): PrivateScope, Public, HideBySig
